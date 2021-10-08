@@ -1,0 +1,1 @@
+These tasks were made using on-line compilator https://www.onlinegdb.com/online_c_compiler .
